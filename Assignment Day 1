@@ -1,0 +1,41 @@
+1.Explain the use of JavaScript ( or What you can do using a JavaScript)
+
+Ans - JavaScript is a light-weight object-oriented programming language that is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language. JavaScript enables dynamic interactivity on websites when it is applied to an HTML document.
+
+JavaScript helps the users to build modern web applications to interact directly without reloading the page every time. JavaScript is commonly used to dynamically modify HTML and CSS to update a user interface by the DOM API. It is mainly used in web applications.
+
+
+
+2.What is the difference between client-side and server-side?
+
+Ans - Client-side means that the processing takes place on the user's computer. It requires browsers to run the scripts on the client machine without involving any processing on the server. Server-side means that the processing takes place on a web server.
+
+
+
+3.What is Nodejs?
+
+Ans - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
+
+
+
+4.Explain Scope in JavaScript
+
+Ans - JavaScript has function scope: Each function creates a new scope. Variables defined inside a function are not accessible (visible) from outside the function. Variables declared with var , let and const are quite similar when declared inside a function.
+
+
+
+5.JavaScript is asynchronous or synchronous.
+
+Ans - JavaScript is a synchronous.
+
+
+
+6.JavaScript is Single-threaded or Multi-threaded.
+
+Ans - JavaScript is a single-threaded.
+
+
+
+7.Explain DOM in your own word.
+
+Ans - The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the pages.
