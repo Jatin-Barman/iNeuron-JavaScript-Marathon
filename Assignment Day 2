@@ -1,0 +1,38 @@
+1.What is lexical structure?
+
+Ans - A lexical scope in JavaScript means that a variable defined outside a function can be accessible inside another function defined after the variable declaration. But the opposite is not true; the variables defined inside a function will not be accessible outside that function.
+
+2. What is Unicode?
+
+Ans - The code point is a unique number for a character or some symbol such as an accent mark or ligature. Unicode supports more than a million code points, which are written with a "U" followed by a plus sign and the number in hex; for example, the word "Hello" is written U+0048 U+0065 U+006C U+006C U+006F 
+
+3. Explain all the keywords present in the JavaScript with examples.
+
+Ans - await	break	case	catch	class
+const	continue	debugger	default	delete
+do	else	enum	export	extends
+false	finally	for	function	if
+implements	import	in	instanceof	interface
+let	new	null	package	private
+protected	public	return	super	switch
+static	this	throw	try	true
+typeof	var	void	while	with
+yield
+
+4.What are shorthand operators, explain with a suitable example?
+
+Ans - Shorthand Assignment Operators combines one of the arithmetic or bitwise operators with the assignment operator. They are also called as compound assignment operators.
+A Shorthand Assignment Operator is a shorter way of expressing something that is already available in the programming statements.
+
+int a = 20 ;
+
+a += 10 ;          // which means a = a + 10 , Output is 30
+
+int z = 10 ;
+
+z *= 10 ;           // which means z = z * 10 , Output is 100
+
+
+5.What is “use Strict” in JavaScript?
+
+Ans - The purpose of "use strict" is to indicate that the code should be executed in "strict mode". With strict mode, you can not, for example, use undeclared variables. The numbers in the table specify the first browser version that fully supports the directive. You can use strict mode in all your programs.
